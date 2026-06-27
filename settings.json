@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Menacer_Samee.aternos.me:14730",
+    "ip": Menacer_Samee.aternos.me,
     "port": 14730,
     "version": "",
     "try-creative": false
